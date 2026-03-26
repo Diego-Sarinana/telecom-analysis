@@ -12,7 +12,16 @@ usage.csv → detalle del uso real de los servicios (llamadas y mensajes)
 
 
 📂 Contenido del repositorio
-Diego-Sarinana/telecom-analysis - Se llevó a cabo una exploración, limpieza y análisis
+
+Diego-Sarinana/telecom-analysis - Se llevó a cabo una exploración, limpieza y análisis llevando un proceso dividido en las siguientes etapas: 
+1. Cargar y explorar
+2. Identificación de problemas de calidad de datos
+3. Limpieza básica de datos
+4. Summary statistics de uso por usuario
+5. Visualización de distribuciones (uso y clientes) y outliers
+6. Segmentación de Clientes
+7. Insight Ejecutivo para Stakeholders
+
 ▶ Cómo abrir el notebook en Google Colab
 Haz clic en el siguiente botón:
 
