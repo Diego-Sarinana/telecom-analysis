@@ -26,7 +26,7 @@ Diego-Sarinana/telecom-analysis - Se llevó a cabo una exploración, limpieza y 
 
 Haz clic en el siguiente botón:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](URL_DEL_NOTEBOOK_EN_GITHUB)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Diego-Sarinana/telecom-analysis/blob/main/Project_ConnectaTel.ipynb)
 
 O:
 
