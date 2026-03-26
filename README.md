@@ -34,11 +34,11 @@ O:
 2. Haz clic en Open in Colab
    
 📘 Cómo reproducir el análisis:
-1. Abre 'Diego-Sarinana/Project-ConnectaTel.ipynb'
+1. Abre 'Diego-Sarinana/Project_ConnectaTel.ipynb'
 2. Ejecuta las celdas en orden
 3. El notebook carga automáticamente el dataset desde /data/ o desde un enlace público (según corresponda)
    
 🧠 Objetivo del análisis:
-Construir un perfil estadístico de los clientes. 
-Detectar comportamientos atípicos. 
-Crear segmentos de clientes.
+1. Construir un perfil estadístico de los clientes. 
+2. Detectar comportamientos atípicos. 
+3. Crear segmentos de clientes.
