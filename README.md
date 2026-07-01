@@ -1,6 +1,6 @@
 # ConnectaTel Analysis
 
-Este repositorio contiene el análisis realizado durante el Sprint 7 del caso ConnectaTel, una empresa de telecomunicaciones en Latinoamerica.
+Este repositorio contiene el análisis del caso ConnectaTel, una empresa de telecomunicaciones en Latinoamerica.
 
 Se trabajó inicialmente con los datos de 3 datasets: plans.csv, usage.csv y users.csv que se combinaron para crear un solo dataframe nombrado user_profile. Éstos son los datos que incluía cada dataset y que se combinaron:
 
