@@ -2,6 +2,7 @@
 
 Este repositorio contiene el análisis del caso ConnectaTel, una empresa de telecomunicaciones en Latinoamerica.
 
+## 🗃️🗄️ Datos 
 Se trabajó inicialmente con los datos de 3 datasets: plans.csv, usage.csv y users.csv que se combinaron para crear un solo dataframe nombrado user_profile. Éstos son los datos que incluía cada dataset y que se combinaron:
 
 plans.csv → información de los planes actuales (precio, minutos incluidos, GB incluidos, costo por extra)
@@ -11,7 +12,7 @@ users.csv → información de los clientes (edad, ciudad, fecha de registro, pla
 usage.csv → detalle del uso real de los servicios (llamadas y mensajes)
 
 
-📂 Contenido del repositorio
+## 📂 Contenido del repositorio
 
 Diego-Sarinana/telecom-analysis - Se llevó a cabo una exploración, limpieza y análisis llevando un proceso dividido en las siguientes etapas: 
 1. Cargar y explorar
@@ -22,7 +23,7 @@ Diego-Sarinana/telecom-analysis - Se llevó a cabo una exploración, limpieza y 
 6. Segmentación de Clientes
 7. Insight Ejecutivo para Stakeholders
 
-▶ Cómo abrir el notebook en Google Colab
+## ▶ Cómo abrir el notebook en Google Colab
 
 Haz clic en el siguiente botón:
 
@@ -33,12 +34,12 @@ O:
 1. Abre el archivo '.ipynb' en GitHub
 2. Haz clic en Open in Colab
    
-📘 Cómo reproducir el análisis:
+## 📘 Cómo reproducir el análisis:
 1. Abre 'Diego-Sarinana/Project_ConnectaTel.ipynb'
 2. Ejecuta las celdas en orden
 3. El notebook carga automáticamente el dataset desde /data/ o desde un enlace público (según corresponda)
    
-🧠 Objetivo del análisis:
+## 🧠 Objetivo del análisis:
 1. Construir un perfil estadístico de los clientes. 
 2. Detectar comportamientos atípicos. 
 3. Crear segmentos de clientes.
